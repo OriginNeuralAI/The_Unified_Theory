@@ -1,0 +1,6 @@
+target/
+*.exe
+*.aux
+*.log
+*.out
+*.synctex.gz

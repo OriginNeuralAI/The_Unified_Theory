@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "The Unified Theory: From Monster Symmetry to Physical Reality"
+message: "If you reference this work, please cite as below."
+type: article
+authors:
+  - family-names: Daugherty
+    given-names: Bryan
+  - family-names: Ward
+    given-names: Gregory
+  - family-names: Ryan
+    given-names: Shawn
+repository-code: "https://github.com/OriginNeuralAI/The_Unified_Theory"
+license: LicenseRef-AllRightsReserved
+date-released: "2026-03-25"
+version: "1.0"
+keywords:
+  - unified-theory
+  - omega-24
+  - monster-group
+  - fine-structure-constant
+  - leech-lattice
+  - moonshine
