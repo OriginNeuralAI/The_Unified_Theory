@@ -99,6 +99,10 @@ All four reduce to **GUE universality for operators in U₂₄**.
 | Hodge | [u24-Hodge-Conjecture](https://github.com/OriginNeuralAI/u24-Hodge-Conjecture) | 25/25 | Three pillars all = 24 |
 | **Total** | | **277+** | **Zero falsifications** |
 
+<div align="center">
+<img src="figures/six-problems-interconnection.svg" alt="Six Millennium Problems connected through Ω = 24" width="900"/>
+</div>
+
 ### GPU-Scale Verification (April 2026)
 
 The Isomorphic Engine (v0.15.0) on RTX 6000 Ada (48GB VRAM) extends the verification:
