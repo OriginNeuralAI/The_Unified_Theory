@@ -85,6 +85,8 @@ Yang-Mills (physical) ↔ P ≠ NP (computational)
 
 All four reduce to **GUE universality for operators in U₂₄**.
 
+> **Caveats:** The RH proof is unconditional; four of the six other problems are conditional on stated conjectures (SOS, BGS, A*, Kuga-Satake). The unification through Ω = 24 is established computationally (277+ checks, zero falsifications) and algebraically (11 independent paths, uniqueness theorem). The basin-force mapping is post-hoc but uniquely determined (0/94 alternatives, 1/24 permutations). See [FAQ](https://github.com/OriginNeuralAI/u24-spectral-operator/blob/main/FAQ.md) and [Essays](https://github.com/OriginNeuralAI/Papers/tree/main/essays) for the full narrative.
+
 ## Computational Evidence: 277+ Checks
 
 | Problem | Repository | Checks | Key Result |
