@@ -13,7 +13,7 @@
 ---
 
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
-![Checks](https://img.shields.io/badge/checks-241%20total-brightgreen)
+![Checks](https://img.shields.io/badge/checks-277%2B%20total-brightgreen)
 ![Predictions](https://img.shields.io/badge/predictions-23%20falsifiable-blue)
 ![Paths](https://img.shields.io/badge/paths%20to%2024-11-gold)
 
@@ -25,7 +25,7 @@
 >
 > **Four Millennium Problems** share a single root: the non-polynomial obstruction encoded by the Reeds endomorphism
 >
-> **241 verification checks** across Riemann Hypothesis, Yang-Mills, P ≠ NP, and BSD — zero falsifications
+> **277+ verification checks** across Riemann Hypothesis, Yang-Mills, P ≠ NP, BSD, Navier-Stokes, and Hodge — zero falsifications
 >
 > **Fine-structure constant** α_EM = 0.007298 (0.009% error, zero free parameters)
 >
