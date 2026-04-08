@@ -85,7 +85,7 @@ Yang-Mills (physical) ↔ P ≠ NP (computational)
 
 All four reduce to **GUE universality for operators in U₂₄**.
 
-## Computational Evidence: 241+ Checks
+## Computational Evidence: 277+ Checks
 
 | Problem | Repository | Checks | Key Result |
 |---------|-----------|--------|------------|
